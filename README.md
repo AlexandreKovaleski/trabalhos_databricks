@@ -1,3 +1,5 @@
+Este repositório reúne notebooks e scripts desenvolvidos no ambiente Databricks, focados no processamento de grandes volumes de dados (Big Data) e na implementação de pipelines de dados utilizando o Apache Spark.
+
 🚀 Objetivo do Repositório
 
 O propósito destes trabalhos é aplicar conceitos de engenharia e ciência de dados em um ambiente escalável, explorando a integração entre armazenamento em nuvem, processamento distribuído e análise avançada.
